@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akshat79-art
-- 👀 I’m interested in intern positions in Web Development.
-- 🌱 I’m currently doing projects on React and learning MERN stack.
-- 💞️ I’m looking to collaborate on real time projects.
+- 👋 Hi, I’m Akshat
+- 👀 I’m interested in intern positions in Web Development and Python.
+- 🌱 Currently working on React and Python.
+- 💞️ Looking to collaborate on real time projects.
 - 📫 How to reach me: Drop a mail at akshat.surana2014@gmail.com
 
 <!---
