@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshat
-- 👀 I’m interested in intern positions in Software Development.
+- 👀 I’m interested in positions in Software Development.
 - 🌱 Currently working on React and Python.
 - 💞️ Looking to collaborate on real time projects.
 - 📫 Reach me: Drop a mail at akshat.surana2014@gmail.com
