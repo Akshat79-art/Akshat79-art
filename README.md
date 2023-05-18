@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshat
 - 👀 I’m interested in positions in Software Development.
 - 🌱 Currently working on React and Python.
-- 💞️ Looking to collaborate on real time projects.
+- 💞️ Looking to collaborate on real time and open source projects.
 - 📫 Reach me: Drop a mail at akshat.surana2014@gmail.com
 
 <!---
